@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "姜小白里程计"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "需要定位权限来计算您的行驶里程"
+    },
+    {
+      "name": "permission_background_location_reason",
+      "value": "需要后台定位权限来在后台持续记录里程"
+    }
+  ]
+}
