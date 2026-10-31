@@ -810,6 +810,19 @@ struct Index {
             this.endDrive();
           })
       }
+
+      Blank()
+
+      // 备案号（工信部要求挂在显著位置）
+      Text('鲁ICP备2026065895号-1A')
+        .fontSize(11)
+        .fontColor('#BBBBBB')
+        .margin({ bottom: 16 })
+        .onClick(() => {
+          // 点击跳转工信部备案官网
+          const context = getContext(this) as common.UIAbilityContext;
+          context.openLink('https://beian.miit.gov.cn');
+        })
     }
     .width('100%')
     .height('100%')

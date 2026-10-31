@@ -1,9 +1,9 @@
 {
   "app": {
     "bundleName": "com.hou.drivemileage",
-    "vendor": "example",
-    "versionCode": 1010000,
-    "versionName": "1.1.0",
+    "vendor": "侯典宇",
+    "versionCode": 1010001,
+    "versionName": "1.1.1",
     "buildVersion": "1",
     "icon": "$media:startIcon",
     "label": "$string:app_name"
