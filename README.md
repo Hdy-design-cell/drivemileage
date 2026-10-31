@@ -48,11 +48,12 @@ drivemileage/
 
 | 项 | 值 |
 | --- | --- |
-| 版本 | V1.1.0 |
-| versionCode | 1010000 |
-| versionName | 1.1.0 |
+| 版本 | V1.1.1 |
+| versionCode | 1010001 |
+| versionName | 1.1.1 |
 | 包名 | `com.hou.drivemileage` |
 | 设备类型 | phone |
+| 备案号 | 鲁ICP备2026065895号-1A |
 
 ## 隐私说明
 
