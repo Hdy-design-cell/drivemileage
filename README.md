@@ -13,7 +13,7 @@
 
 ## 技术栈
 
-- HarmonyOS 5（API 26），仅支持 phone 设备
+- HarmonyOS API 26（兼容HarmonyOS 5及以上版本），仅支持 phone 设备
 - ArkTS / ArkUI（声明式 UI）
 - `@kit.LocationKit`：GPS 定位（前台 + 后台）
 - `@kit.ArkData`：RelationalStore 本地数据库 + Preferences 偏好存储
